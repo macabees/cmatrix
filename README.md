@@ -1,14 +1,16 @@
-#CMatrix
-##Displays the scrolling lines from 'The Matrix' movie. Press 'q' to quit.
+# CMatrix
+## Displays the scrolling lines from 'The Matrix' movie. 
 
-##CMatrix (Project Info)
+Press 'q' to quit.
+
+## CMatrix (Project Info)
 [Website](https://www.asty.org/cmatrix/)
 
-##Docker Hub
+## Docker Hub
 [Website](https://hub.docker.com/r/macabees/cmatrix/)
 
-##Build image
+## Build image
 `$ docker build -t macabees/cmatrix:latest .`
 
-##Run image
+## Run image
 `$ docker run -it --rm macabees/cmatrix`
