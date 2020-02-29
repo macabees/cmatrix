@@ -1,5 +1,5 @@
 # CMatrix
-## Displays the scrolling lines from 'The Matrix' movie. 
+Displays the scrolling lines from 'The Matrix' movie. 
 
 Press 'q' to quit.
 
