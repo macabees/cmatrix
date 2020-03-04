@@ -9,5 +9,5 @@ RUN apt-get update \
 ENV TERM=xterm-256color
 ENV PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
 
-CMD ["cmatrix"]
+ENTRYPOINT ["cmatrix"]
 

@@ -14,3 +14,9 @@ Press 'q' to quit.
 
 ## Run image
 `$ docker run -it --rm macabees/cmatrix`
+
+Display scrolling text in different colors 
+`$ docker run -it --rm macabees/cmatrix -C [green|red|blue|white|yellow|cyan|magenta|black]`
+
+## Help
+`$ docker run -it --rm macabees/cmatrix --help`
